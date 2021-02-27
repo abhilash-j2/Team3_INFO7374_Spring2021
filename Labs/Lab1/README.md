@@ -14,7 +14,7 @@
 
 ## Snowflake and Einstein analytics
 
-[Lab report](https://docs.google.com/document/d/1g1jP1wkBbYLLXszGAUUMkV-jWRmu4t21ksVY2E9RreA/edit?usp=sharing)
+[Lab report](https://codelabs-preview.appspot.com/?file_id=1g1jP1wkBbYLLXszGAUUMkV-jWRmu4t21ksVY2E9RreA#0)
 
 
 
