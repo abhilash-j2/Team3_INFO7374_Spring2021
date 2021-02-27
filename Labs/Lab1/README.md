@@ -9,12 +9,12 @@
 ## Big query
 
 
-[Lab report] (https://codelabs-preview.appspot.com/?file_id=1gEkba6Uuhluq5xAJ4-b8Rw-N03Q-SyBfuQZS7q5Idqk#2)
+[Lab report](https://codelabs-preview.appspot.com/?file_id=1gEkba6Uuhluq5xAJ4-b8Rw-N03Q-SyBfuQZS7q5Idqk#2)
 
 
 ## Snowflake and Einstein analytics
 
-[Lab report] (https://codelabs-preview.appspot.com/?file_id=1g1jP1wkBbYLLXszGAUUMkV-jWRmu4t21ksVY2E9RreA#2)
+[Lab report](https://codelabs-preview.appspot.com/?file_id=1g1jP1wkBbYLLXszGAUUMkV-jWRmu4t21ksVY2E9RreA#2)
 
 
 
