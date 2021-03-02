@@ -1,0 +1,52 @@
+Before using the ADS-16 database, please read the ADS-16 Database Release Agreement carefully.
+
++ Release Agreement:
+
+	1) Any images will never be released in commercial materials, newspapers, or other public media.
+	2) The database will not be further distributed, published, copied, or further disseminated in any way or form whatsoever, whether for profit or not. 
+	   This includes further distributing, copying or disseminating to a different facility or organizational unit in the requesting university, organization, or company.
+	3) All the images will be used for the purpose of scientific research only.
+	4) All technical papers, documents and reports which use the ADS-16 database will acknowledge the use of the database as follows: “The research in this paper use the ADS-16 database” and a citation to “G. Roffo, A. Vinciarelli, Personality in Computational Advertising: A Benchmark. ACM RecSys - ACM on Recommender Systems - International Workshop on Emotions and Personality in Personalized Systems, (EMPIRE 2016)".
+
+
+The directory tree of this disk is as follows:
+
+<ADS16_Benchmark>		... The root directory of this CDROM.
+    |
+    +-<Documents>		... The documentation directory. In this directory the pdf version of
+    |				    the work "Personality in Computational Advertising: A Benchmark" can be found.
+    |
+    +-<Ads>				... This directory contains the Ads used in the experiments.
+    |	|
+    |	+-<1>			... This directory contains Ads of the first category (15), see [1] for more details.
+    |	|				    
+    |	|
+    |	+-<...>			... 
+    |	|
+    |	+-<20>			... Ads belong to 20 product/service categories.
+	|
+    |
+    +-<Corpus>		... This directory contains the ADS database, a corpus of 120 participants.
+    |	|
+    |	+-<U0001>	... Each folder contains data for one of the involved subjects.
+    |	|				    
+    |	|
+    |	+-<...>		... 
+    |	|
+    |	+-<U0120>	... 300 real advertisements have been scored, Ratings according to the users’ interests (1 star to 5 stars), ~1,200 personal pictures (labelled as positive/negative), Big-Five personality scores (O-C-E-A-N)
+
+To use the ADS-16 database, please refer to the "Personality in Computational Advertising: A Benchmark"(Main-006-Personality in Computational Advertising.pdf) in the Documents directory.
+	
+References:
+	
+[1] Roffo, G., & Vinciarelli, A. (2016, August). Personality in computational advertising: A benchmark. In 4 th Workshop on Emotions and Personality in Personalized Systems (EMPIRE) 2016 (p. 18).
+ 
+Bibtex
+
+@inproceedings{roffo2016personality,
+  title={Personality in computational advertising: A benchmark},
+  author={Roffo, Giorgio and Vinciarelli, Alessandro},
+  booktitle={4 th Workshop on Emotions and Personality in Personalized Systems (EMPIRE) 2016},
+  pages={18},
+  year={2016}
+}
