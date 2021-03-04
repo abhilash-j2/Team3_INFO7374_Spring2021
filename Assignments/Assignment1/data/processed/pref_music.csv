@@ -1,349 +1,349 @@
-,user_id,Most_listened_musics
-0,U0001,Classical Music
-1,U0001, Easy Listening
-2,U0001, Jazz
-3,U0002,Dance Music
-4,U0002, Electronic Music
-5,U0002, Indie Pop
-6,U0002, Pop (Popular music)
-7,U0002, Rock
-8,U0003,Hip Hop - Rap
-9,U0003, Dance Music
-10,U0003, Electronic Music
-11,U0003, Rock
-12,U0004,Alternative Music
-13,U0004, Pop (Popular music)
-14,U0004, Rock
-15,U0005,Electronic Music
-16,U0005, Asian Pop (J-Pop or K-pop)
-17,U0005, Rock
-18,U0006,Easy Listening
-19,U0006, Dance Music
-20,U0007,Rock
-21,U0007, Pop (Popular music)
-22,U0008,Hip Hop - Rap
-23,U0008, Rock
-24,U0008, Dance Music
-25,U0009,Hip Hop - Rap
-26,U0010,Rock
-27,U0011,Dance Music
-28,U0012,Rock
-29,U0013,Rock
-30,U0013, Electronic Music
-31,U0014,Asian Pop (J-Pop or K-pop)
-32,U0015,Hip Hop - Rap
-33,U0015, Asian Pop (J-Pop or K-pop)
-34,U0016,Classical Music
-35,U0016, Rock
-36,U0016, Pop (Popular music)
-37,U0017,Dance Music
-38,U0017, Easy Listening
-39,U0017, Indie Pop
-40,U0017, Asian Pop (J-Pop or K-pop)
-41,U0017, Pop (Popular music)
-42,U0017, Rock
-43,U0018,Singer - Songwriter (inc. Folk)
-44,U0018, European Music (Folk-Pop)
-45,U0018, Asian Pop (J-Pop or K-pop)
-46,U0019,Country Music
-47,U0019, Easy Listening
-48,U0019, Singer - Songwriter (inc. Folk)
-49,U0020,Asian Pop (J-Pop or K-pop)
-50,U0020, European Music (Folk-Pop)
-51,U0020, Pop (Popular music)
-52,U0020, Indie Pop
-53,U0020, Hip Hop - Rap
-54,U0021,Alternative Music
-55,U0021, Country Music
-56,U0021, European Music (Folk-Pop)
-57,U0021, Pop (Popular music)
-58,U0021, Latin Music
-59,U0021, Indie Pop
-60,U0021, Easy Listening
-61,U0021, Blues
-62,U0022,Dance Music
-63,U0023,Pop (Popular music)
-64,U0023, Classical Music
-65,U0023, Rock
-66,U0023, R&amp;B - Soul
-67,U0024,Rock
-68,U0024, Classical Music
-69,U0024, Pop (Popular music)
-70,U0024, Singer - Songwriter (inc. Folk)
-71,U0025,Dance Music
-72,U0025, Alternative Music
-73,U0025, Easy Listening
-74,U0025, Pop (Popular music)
-75,U0025, Rock
-76,U0025, Inspirational (incl. Gospel)
-77,U0026,Pop (Popular music)
-78,U0027,Classical Music
-79,U0028,Hip Hop - Rap
-80,U0028, Rock
-81,U0028, Pop (Popular music)
-82,U0029,Alternative Music
-83,U0030,World Music - Beats
-84,U0030, Easy Listening
-85,U0030, Rock
-86,U0031,Classical Music
-87,U0031, Electronic Music
-88,U0031, Rock
-89,U0031, Reggae
-90,U0031, New Age
-91,U0031, Pop (Popular music)
-92,U0031, R&amp;B - Soul
-93,U0032,Jazz
-94,U0032, R&amp;B - Soul
-95,U0032, Inspirational (incl. Gospel)
-96,U0033,Country Music
-97,U0034,European Music (Folk-Pop)
-98,U0035,Electronic Music
-99,U0036,R&amp;B - Soul
-100,U0037,Dance Music
-101,U0038,Electronic Music
-102,U0038, Hip Hop - Rap
-103,U0038, Reggae
-104,U0039,Dance Music
-105,U0039, Asian Pop (J-Pop or K-pop)
-106,U0040,Rock
-107,U0041,Classical Music
-108,U0041, European Music (Folk-Pop)
-109,U0041, New Age
-110,U0042,Country Music
-111,U0043,Alternative Music
-112,U0043, Electronic Music
-113,U0043, Indie Pop
-114,U0043, Hip Hop - Rap
-115,U0043, Pop (Popular music)
-116,U0043, Rock
-117,U0044,Hip Hop - Rap
-118,U0044, Dance Music
-119,U0044, Electronic Music
-120,U0044, R&amp;B - Soul
-121,U0044, Rock
-122,U0044, Reggae
-123,U0045,Hip Hop - Rap
-124,U0046,Alternative Music
-125,U0046, Pop (Popular music)
-126,U0046, Rock
-127,U0047,Rock
-128,U0047, Alternative Music
-129,U0047, Jazz
-130,U0048,Country Music
-131,U0048, Dance Music
-132,U0048, Electronic Music
-133,U0048, Hip Hop - Rap
-134,U0049,Country Music
-135,U0049, Rock
-136,U0050,Jazz
-137,U0050, R&amp;B - Soul
-138,U0050, Rock
-139,U0051,Alternative Music
-140,U0051, Electronic Music
-141,U0051, Hip Hop - Rap
-142,U0052,Electronic Music
-143,U0052, Indie Pop
-144,U0052, Pop (Popular music)
-145,U0052, Dance Music
-146,U0053,Dance Music
-147,U0053, Electronic Music
-148,U0053, Hip Hop - Rap
-149,U0053, R&amp;B - Soul
-150,U0053, Reggae
-151,U0053, Rock
-152,U0054,Indie Pop
-153,U0055,Alternative Music
-154,U0055, Dance Music
-155,U0055, Electronic Music
-156,U0055, Rock
-157,U0056,Country Music
-158,U0056, Dance Music
-159,U0056, Rock
-160,U0057,Classical Music
-161,U0057, Pop (Popular music)
-162,U0057, Opera
-163,U0058,New Age
-164,U0058, Pop (Popular music)
-165,U0058, Jazz
-166,U0059,Alternative Music
-167,U0059, Electronic Music
-168,U0059, Indie Pop
-169,U0059, R&amp;B - Soul
-170,U0060,Rock
-171,U0061,Classical Music
-172,U0061, Dance Music
-173,U0061, Asian Pop (J-Pop or K-pop)
-174,U0061, Jazz
-175,U0061, Pop (Popular music)
-176,U0061, Blues
-177,U0061, Rock
-178,U0062,Easy Listening
-179,U0062, Hip Hop - Rap
-180,U0062, Pop (Popular music)
-181,U0063,Alternative Music
-182,U0063, Hip Hop - Rap
-183,U0064,Jazz
-184,U0064, Latin Music
-185,U0064, Pop (Popular music)
-186,U0064, Reggae
-187,U0065,Rock
-188,U0066,Jazz
-189,U0066, Indie Pop
-190,U0066, Alternative Music
-191,U0066, Electronic Music
-192,U0067,Classical Music
-193,U0067, R&amp;B - Soul
-194,U0068,Electronic Music
-195,U0069,Dance Music
-196,U0070,Classical Music
-197,U0070, Dance Music
-198,U0070, Pop (Popular music)
-199,U0071,Pop (Popular music)
-200,U0072,Rock
-201,U0073,Hip Hop - Rap
-202,U0073, Pop (Popular music)
-203,U0073, R&amp;B - Soul
-204,U0074,Indie Pop
-205,U0075,Pop (Popular music)
-206,U0075, Rock
-207,U0075, Country Music
-208,U0076,Rock
-209,U0076, Singer - Songwriter (inc. Folk)
-210,U0076, Alternative Music
-211,U0077,European Music (Folk-Pop)
-212,U0078,Rock
-213,U0078, Easy Listening
-214,U0078, Dance Music
-215,U0078, Electronic Music
-216,U0078, Pop (Popular music)
-217,U0078, Indie Pop
-218,U0079,Hip Hop - Rap
-219,U0079, R&amp;B - Soul
-220,U0079, Pop (Popular music)
-221,U0080,Rock
-222,U0080, Alternative Music
-223,U0081,Dance Music
-224,U0081, Pop (Popular music)
-225,U0082,Indie Pop
-226,U0082, Country Music
-227,U0082, Singer - Songwriter (inc. Folk)
-228,U0083,Easy Listening
-229,U0083, Classical Music
-230,U0083, Dance Music
-231,U0084,Dance Music
-232,U0084, Easy Listening
-233,U0084, European Music (Folk-Pop)
-234,U0084, Hip Hop - Rap
-235,U0084, Indie Pop
-236,U0084, Pop (Popular music)
-237,U0084, R&amp;B - Soul
-238,U0084, Rock
-239,U0085,Rock
-240,U0085, Alternative Music
-241,U0086,Pop (Popular music)
-242,U0087,Dance Music
-243,U0087, Pop (Popular music)
-244,U0087, Rock
-245,U0087, Blues
-246,U0088,Reggae
-247,U0088, Blues
-248,U0088, Hip Hop - Rap
-249,U0089,Hip Hop - Rap
-250,U0089, Country Music
-251,U0090,Pop (Popular music)
-252,U0091,Dance Music
-253,U0091, Hip Hop - Rap
-254,U0091, Alternative Music
-255,U0092,Electronic Music
-256,U0093,Blues
-257,U0093, Classical Music
-258,U0093, Inspirational (incl. Gospel)
-259,U0093, Jazz
-260,U0093, New Age
-261,U0093, Pop (Popular music)
-262,U0093, Rock
-263,U0093, Singer - Songwriter (inc. Folk)
-264,U0094,Alternative Music
-265,U0094, Country Music
-266,U0094, Pop (Popular music)
-267,U0095,Classical Music
-268,U0095, Jazz
-269,U0096,Country Music
-270,U0096, Easy Listening
-271,U0096, Rock
-272,U0096, Singer - Songwriter (inc. Folk)
-273,U0097,Country Music
-274,U0097, Indie Pop
-275,U0097, Pop (Popular music)
-276,U0097, Rock
-277,U0097, Singer - Songwriter (inc. Folk)
-278,U0098,Electronic Music
-279,U0098, Rock
-280,U0098, Indie Pop
-281,U0099,Electronic Music
-282,U0099, Country Music
-283,U0099, European Music (Folk-Pop)
-284,U0100,Pop (Popular music)
-285,U0100, Rock
-286,U0101,Blues
-287,U0101, Jazz
-288,U0102,Jazz
-289,U0102, Rock
-290,U0102, Singer - Songwriter (inc. Folk)
-291,U0103,Classical Music
-292,U0103, Alternative Music
-293,U0103, Blues
-294,U0104,Alternative Music
-295,U0104, Blues
-296,U0104, Classical Music
-297,U0104, Dance Music
-298,U0104, Electronic Music
-299,U0104, Jazz
-300,U0104, Reggae
-301,U0104, Rock
-302,U0105,Country Music
-303,U0105, Easy Listening
-304,U0105, Dance Music
-305,U0106,Pop (Popular music)
-306,U0106, R&amp;B - Soul
-307,U0107,Electronic Music
-308,U0107, Alternative Music
-309,U0107, Classical Music
-310,U0107, Indie Pop
-311,U0107, Rock
-312,U0108,R&amp;B - Soul
-313,U0108, World Music - Beats
-314,U0109,Alternative Music
-315,U0109, Blues
-316,U0109, European Music (Folk-Pop)
-317,U0109, Hip Hop - Rap
-318,U0110,Alternative Music
-319,U0110, Classical Music
-320,U0110, Blues
-321,U0110, Pop (Popular music)
-322,U0111,Easy Listening
-323,U0111, R&amp;B - Soul
-324,U0112,Alternative Music
-325,U0113,Hip Hop - Rap
-326,U0114,Alternative Music
-327,U0114, Hip Hop - Rap
-328,U0114, Indie Pop
-329,U0115,Alternative Music
-330,U0115, Rock
-331,U0115, Electronic Music
-332,U0115, Jazz
-333,U0116,Alternative Music
-334,U0116, Pop (Popular music)
-335,U0117,Hip Hop - Rap
-336,U0117, R&amp;B - Soul
-337,U0117, Pop (Popular music)
-338,U0118,Electronic Music
-339,U0118, Hip Hop - Rap
-340,U0118, Asian Pop (J-Pop or K-pop)
-341,U0118, Latin Music
-342,U0118, Pop (Popular music)
-343,U0118, Rock
-344,U0118, R&amp;B - Soul
-345,U0119,New Age
-346,U0119, Jazz
-347,U0120,Indie Pop
+user_id,most_listened_musics
+U0001,Classical Music
+U0001, Easy Listening
+U0001, Jazz
+U0002,Dance Music
+U0002, Electronic Music
+U0002, Indie Pop
+U0002, Pop (Popular music)
+U0002, Rock
+U0003,Hip Hop - Rap
+U0003, Dance Music
+U0003, Electronic Music
+U0003, Rock
+U0004,Alternative Music
+U0004, Pop (Popular music)
+U0004, Rock
+U0005,Electronic Music
+U0005, Asian Pop (J-Pop or K-pop)
+U0005, Rock
+U0006,Easy Listening
+U0006, Dance Music
+U0007,Rock
+U0007, Pop (Popular music)
+U0008,Hip Hop - Rap
+U0008, Rock
+U0008, Dance Music
+U0009,Hip Hop - Rap
+U0010,Rock
+U0011,Dance Music
+U0012,Rock
+U0013,Rock
+U0013, Electronic Music
+U0014,Asian Pop (J-Pop or K-pop)
+U0015,Hip Hop - Rap
+U0015, Asian Pop (J-Pop or K-pop)
+U0016,Classical Music
+U0016, Rock
+U0016, Pop (Popular music)
+U0017,Dance Music
+U0017, Easy Listening
+U0017, Indie Pop
+U0017, Asian Pop (J-Pop or K-pop)
+U0017, Pop (Popular music)
+U0017, Rock
+U0018,Singer - Songwriter (inc. Folk)
+U0018, European Music (Folk-Pop)
+U0018, Asian Pop (J-Pop or K-pop)
+U0019,Country Music
+U0019, Easy Listening
+U0019, Singer - Songwriter (inc. Folk)
+U0020,Asian Pop (J-Pop or K-pop)
+U0020, European Music (Folk-Pop)
+U0020, Pop (Popular music)
+U0020, Indie Pop
+U0020, Hip Hop - Rap
+U0021,Alternative Music
+U0021, Country Music
+U0021, European Music (Folk-Pop)
+U0021, Pop (Popular music)
+U0021, Latin Music
+U0021, Indie Pop
+U0021, Easy Listening
+U0021, Blues
+U0022,Dance Music
+U0023,Pop (Popular music)
+U0023, Classical Music
+U0023, Rock
+U0023, R&amp;B - Soul
+U0024,Rock
+U0024, Classical Music
+U0024, Pop (Popular music)
+U0024, Singer - Songwriter (inc. Folk)
+U0025,Dance Music
+U0025, Alternative Music
+U0025, Easy Listening
+U0025, Pop (Popular music)
+U0025, Rock
+U0025, Inspirational (incl. Gospel)
+U0026,Pop (Popular music)
+U0027,Classical Music
+U0028,Hip Hop - Rap
+U0028, Rock
+U0028, Pop (Popular music)
+U0029,Alternative Music
+U0030,World Music - Beats
+U0030, Easy Listening
+U0030, Rock
+U0031,Classical Music
+U0031, Electronic Music
+U0031, Rock
+U0031, Reggae
+U0031, New Age
+U0031, Pop (Popular music)
+U0031, R&amp;B - Soul
+U0032,Jazz
+U0032, R&amp;B - Soul
+U0032, Inspirational (incl. Gospel)
+U0033,Country Music
+U0034,European Music (Folk-Pop)
+U0035,Electronic Music
+U0036,R&amp;B - Soul
+U0037,Dance Music
+U0038,Electronic Music
+U0038, Hip Hop - Rap
+U0038, Reggae
+U0039,Dance Music
+U0039, Asian Pop (J-Pop or K-pop)
+U0040,Rock
+U0041,Classical Music
+U0041, European Music (Folk-Pop)
+U0041, New Age
+U0042,Country Music
+U0043,Alternative Music
+U0043, Electronic Music
+U0043, Indie Pop
+U0043, Hip Hop - Rap
+U0043, Pop (Popular music)
+U0043, Rock
+U0044,Hip Hop - Rap
+U0044, Dance Music
+U0044, Electronic Music
+U0044, R&amp;B - Soul
+U0044, Rock
+U0044, Reggae
+U0045,Hip Hop - Rap
+U0046,Alternative Music
+U0046, Pop (Popular music)
+U0046, Rock
+U0047,Rock
+U0047, Alternative Music
+U0047, Jazz
+U0048,Country Music
+U0048, Dance Music
+U0048, Electronic Music
+U0048, Hip Hop - Rap
+U0049,Country Music
+U0049, Rock
+U0050,Jazz
+U0050, R&amp;B - Soul
+U0050, Rock
+U0051,Alternative Music
+U0051, Electronic Music
+U0051, Hip Hop - Rap
+U0052,Electronic Music
+U0052, Indie Pop
+U0052, Pop (Popular music)
+U0052, Dance Music
+U0053,Dance Music
+U0053, Electronic Music
+U0053, Hip Hop - Rap
+U0053, R&amp;B - Soul
+U0053, Reggae
+U0053, Rock
+U0054,Indie Pop
+U0055,Alternative Music
+U0055, Dance Music
+U0055, Electronic Music
+U0055, Rock
+U0056,Country Music
+U0056, Dance Music
+U0056, Rock
+U0057,Classical Music
+U0057, Pop (Popular music)
+U0057, Opera
+U0058,New Age
+U0058, Pop (Popular music)
+U0058, Jazz
+U0059,Alternative Music
+U0059, Electronic Music
+U0059, Indie Pop
+U0059, R&amp;B - Soul
+U0060,Rock
+U0061,Classical Music
+U0061, Dance Music
+U0061, Asian Pop (J-Pop or K-pop)
+U0061, Jazz
+U0061, Pop (Popular music)
+U0061, Blues
+U0061, Rock
+U0062,Easy Listening
+U0062, Hip Hop - Rap
+U0062, Pop (Popular music)
+U0063,Alternative Music
+U0063, Hip Hop - Rap
+U0064,Jazz
+U0064, Latin Music
+U0064, Pop (Popular music)
+U0064, Reggae
+U0065,Rock
+U0066,Jazz
+U0066, Indie Pop
+U0066, Alternative Music
+U0066, Electronic Music
+U0067,Classical Music
+U0067, R&amp;B - Soul
+U0068,Electronic Music
+U0069,Dance Music
+U0070,Classical Music
+U0070, Dance Music
+U0070, Pop (Popular music)
+U0071,Pop (Popular music)
+U0072,Rock
+U0073,Hip Hop - Rap
+U0073, Pop (Popular music)
+U0073, R&amp;B - Soul
+U0074,Indie Pop
+U0075,Pop (Popular music)
+U0075, Rock
+U0075, Country Music
+U0076,Rock
+U0076, Singer - Songwriter (inc. Folk)
+U0076, Alternative Music
+U0077,European Music (Folk-Pop)
+U0078,Rock
+U0078, Easy Listening
+U0078, Dance Music
+U0078, Electronic Music
+U0078, Pop (Popular music)
+U0078, Indie Pop
+U0079,Hip Hop - Rap
+U0079, R&amp;B - Soul
+U0079, Pop (Popular music)
+U0080,Rock
+U0080, Alternative Music
+U0081,Dance Music
+U0081, Pop (Popular music)
+U0082,Indie Pop
+U0082, Country Music
+U0082, Singer - Songwriter (inc. Folk)
+U0083,Easy Listening
+U0083, Classical Music
+U0083, Dance Music
+U0084,Dance Music
+U0084, Easy Listening
+U0084, European Music (Folk-Pop)
+U0084, Hip Hop - Rap
+U0084, Indie Pop
+U0084, Pop (Popular music)
+U0084, R&amp;B - Soul
+U0084, Rock
+U0085,Rock
+U0085, Alternative Music
+U0086,Pop (Popular music)
+U0087,Dance Music
+U0087, Pop (Popular music)
+U0087, Rock
+U0087, Blues
+U0088,Reggae
+U0088, Blues
+U0088, Hip Hop - Rap
+U0089,Hip Hop - Rap
+U0089, Country Music
+U0090,Pop (Popular music)
+U0091,Dance Music
+U0091, Hip Hop - Rap
+U0091, Alternative Music
+U0092,Electronic Music
+U0093,Blues
+U0093, Classical Music
+U0093, Inspirational (incl. Gospel)
+U0093, Jazz
+U0093, New Age
+U0093, Pop (Popular music)
+U0093, Rock
+U0093, Singer - Songwriter (inc. Folk)
+U0094,Alternative Music
+U0094, Country Music
+U0094, Pop (Popular music)
+U0095,Classical Music
+U0095, Jazz
+U0096,Country Music
+U0096, Easy Listening
+U0096, Rock
+U0096, Singer - Songwriter (inc. Folk)
+U0097,Country Music
+U0097, Indie Pop
+U0097, Pop (Popular music)
+U0097, Rock
+U0097, Singer - Songwriter (inc. Folk)
+U0098,Electronic Music
+U0098, Rock
+U0098, Indie Pop
+U0099,Electronic Music
+U0099, Country Music
+U0099, European Music (Folk-Pop)
+U0100,Pop (Popular music)
+U0100, Rock
+U0101,Blues
+U0101, Jazz
+U0102,Jazz
+U0102, Rock
+U0102, Singer - Songwriter (inc. Folk)
+U0103,Classical Music
+U0103, Alternative Music
+U0103, Blues
+U0104,Alternative Music
+U0104, Blues
+U0104, Classical Music
+U0104, Dance Music
+U0104, Electronic Music
+U0104, Jazz
+U0104, Reggae
+U0104, Rock
+U0105,Country Music
+U0105, Easy Listening
+U0105, Dance Music
+U0106,Pop (Popular music)
+U0106, R&amp;B - Soul
+U0107,Electronic Music
+U0107, Alternative Music
+U0107, Classical Music
+U0107, Indie Pop
+U0107, Rock
+U0108,R&amp;B - Soul
+U0108, World Music - Beats
+U0109,Alternative Music
+U0109, Blues
+U0109, European Music (Folk-Pop)
+U0109, Hip Hop - Rap
+U0110,Alternative Music
+U0110, Classical Music
+U0110, Blues
+U0110, Pop (Popular music)
+U0111,Easy Listening
+U0111, R&amp;B - Soul
+U0112,Alternative Music
+U0113,Hip Hop - Rap
+U0114,Alternative Music
+U0114, Hip Hop - Rap
+U0114, Indie Pop
+U0115,Alternative Music
+U0115, Rock
+U0115, Electronic Music
+U0115, Jazz
+U0116,Alternative Music
+U0116, Pop (Popular music)
+U0117,Hip Hop - Rap
+U0117, R&amp;B - Soul
+U0117, Pop (Popular music)
+U0118,Electronic Music
+U0118, Hip Hop - Rap
+U0118, Asian Pop (J-Pop or K-pop)
+U0118, Latin Music
+U0118, Pop (Popular music)
+U0118, Rock
+U0118, R&amp;B - Soul
+U0119,New Age
+U0119, Jazz
+U0120,Indie Pop
