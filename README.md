@@ -9,3 +9,5 @@ Team consists of 2 members:
 Labs:
 
 [Lab 1 Readme](https://github.com/abhilash-j2/Team3_INFO7374_Spring2021/blob/main/Labs/Lab1/README.md)
+
+[Lab 2 Readme](https://github.com/abhilash-j2/Team3_INFO7374_Spring2021/blob/main/Labs/Lab2/README.md)
