@@ -67,7 +67,7 @@ st.markdown("## Simulation Results")
 simulation_df = pd.read_pickle("pickle_files/simulation_results.pkl")
 #simulation_df.index=simulation_df["pitches"]
 
-st.dataframe(simulation_df)
+st.table(simulation_df)
 # cols_req = st.multiselect("Columns",techniques_ls)
 st.markdown("<br/> <br/>",unsafe_allow_html=True)
 st.line_chart(simulation_df)
