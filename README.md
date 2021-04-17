@@ -18,6 +18,6 @@ Labs:
 
 [Lab 5 Readme](https://github.com/abhilash-j2/Team3_INFO7374_Spring2021/tree/main/Labs/Lab5/README.md)
 
-[Lab 6 Readme]()
+[Lab 6 Readme](https://github.com/abhilash-j2/Team3_INFO7374_Spring2021/tree/main/Labs/Lab6/README.md)
 
 [Lab 7 Readme](https://github.com/abhilash-j2/Team3_INFO7374_Spring2021/tree/main/Labs/Lab7/README.md)
