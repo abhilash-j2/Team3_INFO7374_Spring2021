@@ -6,4 +6,4 @@
   - visual and
   - text similarity 
 
-[PROJUEC Proposal]()
+[PROJECT Proposal](https://codelabs-preview.appspot.com/?file_id=1hRYB4h-u6gO2N_rGwjBvNZ40FoJ57xBcxQaDj2GlOFw#0)
